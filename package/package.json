@@ -1,0 +1,18 @@
+{
+  "name": "@serpgames/2048",
+  "version": "1.0.0",
+  "description": "2048 - Browser game hosted by SERP Games",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["game", "2048", "browser-game"],
+  "author": "SERP Games",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serpgames/2048.git"
+  },
+  "files": [
+    "index.js",
+    "game/"
+  ]
+}
